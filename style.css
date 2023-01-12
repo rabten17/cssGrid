@@ -1,6 +1,6 @@
 .zone {
   cursor: pointer;
-  display: inline-block;
+  display: block;
   text-align: center;
   font-size: 10em;
   border-radius: 4px;
